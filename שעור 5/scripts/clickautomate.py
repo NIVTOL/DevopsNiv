@@ -1,0 +1,16 @@
+from selenium import webdriver
+driver = webdriver.Chrome(executable_path="C:\\test\\ChromeDriver.exe");
+
+driver.get ("https://translate.google.com")
+
+print (driver.current_url)
+
+print (driver.title)
+
+driver.find_element_by_id("gt-submit")
+
+my_list = driver.find_elements_by_class_name("jfk-button")
+my_list[1].click()   # 0 give me the sign in of google account
+
+driver.find_elements_by_xpath("//*[@id='gt-submit']")
+
