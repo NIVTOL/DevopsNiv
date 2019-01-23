@@ -1,0 +1,6 @@
+Go to https://aws.amazon.com/ and Sign up for 1 free year.
+
+Registration requires:
+1. Valid email address
+2. Valid Phone number
+3. Valid credit card number
