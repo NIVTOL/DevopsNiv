@@ -1,0 +1,258 @@
+    1  yum update
+    2  sshkeygen -t rsa
+    3  ssh-keygen -t rsa
+    4  cd /home/
+    5  ls
+    6  ls -la
+    7  ls- la
+    8  ls -la
+    9  ls
+   10  cd /home/
+   11  ls
+   12  cd\
+   13  ls
+   14  ls -la
+   15  cd .ssh/
+   16  ls
+   17  pwd
+   18  cd /home/
+   19  lks
+   20  ls
+   21  ls -la
+   22  ls
+   23  cd\
+   24  useradd nivtol
+   25  passwd nivtol
+   26  su nivtol
+   27  usermod -aG wheel nivtol
+   28  su nivtol
+   29  vim /etc/ssh/sshd_config 
+   30  reboot
+   31  yum install vim
+   32  yum install htop
+   33  htop
+   34  yum install htop
+   35  wget dl.fedoraproject.org/pub/epel/7/x86_64/Packages/e/epel-release-7-11.noarch.rpm
+   36  yum install wget
+   37  wget dl.fedoraproject.org/pub/epel/7/x86_64/Packages/e/epel-release-7-11.noarch.rpm
+   38  rpm -ihv epel-release-6-8.noarch.rpm
+   39  ls
+   40  rpm -ihv epel-release-7-1.noarch.rpm
+   41  rpm -ihv epel-release-7-11.noarch.rpm
+   42  htop
+   43  yum -y install epel-release
+   44  yum install htop
+   45  htop
+   46  history
+   47     24  useradd nivtol
+   48     25  passwd nivtol
+   49     26  su nivtol
+   50     27  usermod -aG wheel nivtol
+   51     28  su nivtol
+   52     29  yum install vim
+   53     30  yum install htop
+   54     31  htop
+   55     32  yum install htop
+   56     33  wget dl.fedoraproject.org/pub/epel/7/x86_64/Packages/e/epel-release-7-11.noarch.rpm
+   57     34  yum install wget
+   58     35  wget dl.fedoraproject.org/pub/epel/7/x86_64/Packages/e/epel-release-7-11.noarch.rpm
+   59     36  rpm -ihv epel-release-6-8.noarch.rpm
+   60     37  ls
+   61     38  rpm -ihv epel-release-7-1.noarch.rpm
+   62     39  rpm -ihv epel-release-7-11.noarch.rpm
+   63     40  htop
+   64     41  yum -y install epel-release
+   65     42  yum install htop
+   66     43  htop
+   67     44  history
+   68  ls
+   69  IFCONFIG
+   70  ifconfig
+   71  apt get install mii-tools
+   72  apt-get install mii-tools
+   73  ifconfig
+   74  yum install ifconfig
+   75  yum install net-tools
+   76  ifconfig
+   77  ls
+   78  htop
+   79  ifconfig
+   80  ping 172.24.2.201
+   81  ping 172.24.2.203
+   82  vim
+   83  history
+   84  yum install -y python
+   85  yum install -y ansible
+   86  vim HOSTS
+   87  ifconfig
+   88  vim HOSTS
+   89  vim ansible.yml
+   90  ls -la
+   91  ansible
+   92  ls -la
+   93  ansible -playbook -i HOSTS ansible.yml 
+   94  ansible-playbook -i HOSTS ansible.yml 
+   95  ls -la
+   96  cat HOSTS 
+   97  IFCONFIG
+   98  ifconfig
+   99  cat ansible.yml 
+  100  ssh-copy-id root@172.24.2.202
+  101  ssh-copy-id root@localhost
+  102  cat HOSTS 
+  103  cat ansible.yml
+  104  ansible-playbook -i HOSTS ansible.yml 
+  105  vim HOSTS 
+  106  cat HOSTS 
+  107  ansible-playbook -i HOSTS ansible.yml 
+  108  vim ansible.yml 
+  109  service ansible start
+  110  ansible-playbook -i HOSTS ansible.yml 
+  111  ERROR! Syntax Error while loading YAML.
+  112    did not find expected '-' indicator
+  113  ansible-playbook -i HOSTS ansible.yml 
+  114  vim ansible.yml 
+  115  ansible-playbook -i HOSTS ansible.yml 
+  116  ls -la
+  117  vim ansible.yml 
+  118  ansible-playbook -i HOSTS ansible.yml 
+  119  vim ansible.yml 
+  120  ansible-playbook -i HOSTS ansible.yml 
+  121  vim ansible.yml 
+  122  cd /etc/ansible/
+  123  ls
+  124  cd hosts
+  125  vim hosts
+  126  ansible-playbook -i HOSTS ansible.yml 
+  127  cd
+  128  mv ansible.yml /etc/ansible/
+  129  ansible-playbook -i HOSTS ansible.yml 
+  130  ansible-playbook -i hosts ansible.yml 
+  131  cd /etc/ansible/
+  132  ansible-playbook -i hosts ansible.yml 
+  133  The error appears to have been in '/etc/ansible/ansible.yml': line 3, column 1,                                                                                                                                                                              but may
+  134  be elsewhere in the file depending on the exact syntax problem.
+  135  ls -la
+  136  cd hosts 
+  137  ls
+  138  cat hosts
+  139  ifconfig
+  140  mv ansible.yml  /root/
+  141  ls
+  142  cd
+  143  ls
+  144  cat HOSTS 
+  145  LS
+  146  cat ansible.yml 
+  147  chmot 777 ansible.yml 
+  148  chmod 777 ansible.yml 
+  149  ls
+  150  ansible-playbook -i HOSTS ansible.yml 
+  151  vim ansible.yml 
+  152  ansible-playbook -i HOSTS ansible.yml 
+  153  vim ansible.yml 
+  154  ansible-playbook -i HOSTS ansible.yml 
+  155  vim ansible.yml 
+  156  ansible-playbook -i HOSTS ansible.yml 
+  157  vim ansible.yml 
+  158  ansible-playbook -i hosts ansible.yml 
+  159  vim ansible.yml 
+  160  vim HOSTS 
+  161  ansible-playbook -i hosts ansible.yml 
+  162  ansible-playbook -i HOSTS ansible.yml 
+  163  vim HOSTS 
+  164  vim ansible.yml 
+  165  ansible-playbook -i HOSTS ansible.yml 
+  166  vim ansible.yml 
+  167  ansible-playbook -i HOSTS ansible.yml 
+  168  vim ansible.yml 
+  169  ansible-playbook -i HOSTS ansible.yml 
+  170  ls
+  171  cd /root/
+  172  ls
+  173  cd
+  174  cd /etc/rsa
+  175  ;s
+  176  ls
+  177  history
+  178  cd /home/
+  179  ls
+  180  cd nivtol/
+  181  ls
+  182  ls -la
+  183  cd .ssh/
+  184  ls
+  185  cat authorized_keys 
+  186  ls
+  187  cat id_rsa
+  188  ls -la
+  189  cat id_rsa.pub 
+  190  ssh root@172.24.2.202
+  191  ls
+  192  cd authorized_keys 
+  193  ssh -i id_rsa root@172.24.2.202
+  194  ssh -i id_rsa.pub root@172.24.2.202
+  195  ssh -i authorized_keys root@172.24.2.202
+  196  ssh -i authorized_keys nivtol@172.24.2.202
+  197  ssh -i id_rsa nivtol@172.24.2.202
+  198  cd /home/nivtol/.ssh/
+  199  ls
+  200  ssh -i id_rsa.pub nivtol@172.24.2.202
+  201  ssh -i id_rsa nivtol@172.24.2.202
+  202  ls
+  203  ansible-playbook -i HOSTS ansible.yml 
+  204  ssh-copy-id nivtol@172.24.2.202
+  205  ssh-copy-id root@172.24.2.202
+  206  vim ansible.yml 
+  207  ansible-playbook -i HOSTS ansible.yml 
+  208  vim ansible.yml 
+  209  ansible-playbook -i HOSTS ansible.yml 
+  210  vim ansible.yml 
+  211  ansible-playbook -i HOSTS ansible.yml 
+  212  vim ansible.yml 
+  213  ansible-playbook -i HOSTS ansible.yml 
+  214  vim ansible.yml 
+  215  ansible-playbook -i HOSTS ansible.yml 
+  216  vim ansible.yml 
+  217  ansible-playbook -i HOSTS ansible.yml 
+  218  vim ansible.yml 
+  219  ansible-playbook -i HOSTS ansible.yml 
+  220  vim ansible.yml 
+  221  ansible-playbook -i HOSTS ansible.yml 
+  222  vim ansible.yml 
+  223  ansible-playbook -i HOSTS ansible.yml 
+  224  ansible-playbook -i HOSTS ansible.yml --key-file /home/nivtol/.ssh/id_rsa.pub 
+  225  ansible-playbook -i HOSTS ansible.yml --key-file /home/nivtol/.ssh/id_rsa
+  226  ansible-playbook -i HOSTS ansible.yml --key-file /home/nivtol/.ssh/id_rsa.pub 
+  227  ssh-copy-id nivtol@172.24.2.202
+  228  ssh-copy-id root@172.24.2.202
+  229  ssh 172.24.2.202
+  230  cd /etc/ansible/
+  231  ls
+  232  cat hosts 
+  233  cd
+  234  ssh-copy-id root@172.24.2.191
+  235  ssh-copy-id webdev2@172.24.2.191
+  236  ssh 172.24.2.191
+  237* 
+  238  ssh-copy-id webdev2@172.24.2.191
+  239  ssh 172.24.2.191
+  240  ssh webdev2@172.24.2.191
+  241  cd /etc/ansible/
+  242  ls
+  243  vim hosts 
+  244  ls
+  245  cat ansible.yml 
+  246  history
+  247  ansible-playground -i hosts ansible.yml
+  248  ls
+  249  ansible-playground -i hosts ansible.yml
+  250  ls
+  251  ls- la
+  252  ansible-playground -i hosts ansible.yml
+  253  history
+  254  ansible-playground -i HOSTS ansible.yml
+  255  ansible
+  256  ansible-playground -i hosts ansible.yml
+  257  ansible-playbook -i hosts ansible.yml
+  258  history > niv.hostory

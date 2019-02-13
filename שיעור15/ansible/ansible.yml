@@ -1,0 +1,9 @@
+---
+- name: my first script
+  hosts: all
+  tasks:
+    - name: create new folder
+      file: 
+        path: /tmp/newfolder
+        state: directory
+        mode: 0755
